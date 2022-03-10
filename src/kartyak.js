@@ -1,0 +1,2 @@
+import Kartya from "./kartya";
+

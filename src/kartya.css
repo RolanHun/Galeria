@@ -1,0 +1,39 @@
+img{
+    max-width: 50%;
+    border: 1px solid black;
+}
+.kartya{
+    background-color: gray;
+    padding: 2% 2% 2% 2%;
+    margin: 5% 5% 5% 5%;
+    text-align: center;
+    border: 1px solid black;
+}
+body{
+    background-color: lightgrey;
+    color: lightcyan;
+}
+#root{
+    display: grid;
+    grid-template-columns: 30% 40% 30%;
+}
+.balra{
+    height: 50%;
+    float: right;
+    padding: 2% 2% 2% 2%;
+    margin: 5% 5% 5% 5%;
+}
+.jobbra{
+    height: 50%;
+    float: left;
+    padding: 2% 2% 2% 2%;
+    margin: 5% 5% 5% 5%;
+}
+.nagyKep{
+    width: 80%;
+    background-color: gray;
+    padding: 2% 2% 2% 2%;
+    margin: 5% 5% 5% 5%;
+    text-align: center;
+    border: 1px solid black;
+}
